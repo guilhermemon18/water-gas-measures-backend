@@ -25,8 +25,4 @@ app.use("/", measureRoutes);
 //Inicia o servidor
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
-  console.log("porta: ", process.env.PORT);
-  console.log("api: ", process.env.GEMINI_API_KEY)
-
-  teste();
 });
