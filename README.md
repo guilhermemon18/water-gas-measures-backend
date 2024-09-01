@@ -1,7 +1,7 @@
 
 # REST API com  NodeJS, Express e SQlite
 
-Este projeto é uma API que realiza medições sobre consumo de água e gás, passando uma imagem do hidrômetro como parãmetro, faz a integração com o google Gemini e fornece o número identificado na leitura.
+Este projeto é uma API que realiza medições sobre consumo de água e gás, passando uma imagem do hidrômetro como parâmetro, faz a integração com o google Gemini e fornece o número identificado na leitura.
 
 
 ## Como utilizar
